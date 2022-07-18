@@ -1,0 +1,54 @@
+hr {
+    height:2px; 
+    width:90%; 
+    border-width:10; 
+    color:black;
+    background-color:black;
+}
+
+h1 {
+    text-align: center;
+}
+
+.linkedin {
+    margin-left: 20%;
+    float: left;
+}
+
+.number {
+    margin-right: 20%;
+    float: right;
+}
+
+.email {
+    text-align: center;
+}
+
+h2 {
+    margin-left: 5%;
+}
+
+h3 {
+    margin-left: 5%;
+}
+
+.education {
+    margin-left: 5%;
+}
+
+.work_history {
+    margin-left: 5%;
+}
+
+.interests {
+    margin-left: 5%;
+}
+
+.statement {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.name_of_school {
+    margin-left: 0%;
+}
